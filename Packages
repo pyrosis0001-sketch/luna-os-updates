@@ -1,19 +1,4 @@
 Package: luna-os
-Version: 0.3.0.r2+202611161533
-Architecture: amd64
-Maintainer: LUNA OS Development <luna-os@local.invalid>
-Installed-Size: 20224
-Section: x11
-Priority: optional
-Description: LUNA OS shell, apps and session
- The LUNA desktop: shell (dock, AI island, notification centre, quick
- settings), settings, files, notes, browser and the session scripts.
-Filename: ./luna-os_0.3.0.r2+202611161533_amd64.deb
-Size: 1901200
-MD5sum: 1d0c852599e4a708e14acf21ff7e45e3
-SHA256: c9db0a901db52c430167c23fffe07ee83c0de4e6ce5651390932d083bafe17b4
-
-Package: luna-os
 Version: 0.3.0.r2+202611161608
 Architecture: amd64
 Maintainer: LUNA OS Development <luna-os@local.invalid>
@@ -42,3 +27,18 @@ Filename: ./luna-os_0.3.0.r2+202611161635_amd64.deb
 Size: 1904144
 MD5sum: aaa6efbad3b601a334a6923c6809d2d9
 SHA256: e59f55b2735dd6d5c0321ca9e421935e5e230cab70e53beedebc83f37ce030fb
+
+Package: luna-os
+Version: 0.3.0.r2+202611161809
+Architecture: amd64
+Maintainer: LUNA OS Development <luna-os@local.invalid>
+Installed-Size: 21320
+Section: x11
+Priority: optional
+Description: LUNA OS shell, apps and session
+ The LUNA desktop: shell (dock, AI island, notification centre, quick
+ settings), settings, files, notes, browser and the session scripts.
+Filename: ./luna-os_0.3.0.r2+202611161809_amd64.deb
+Size: 2000280
+MD5sum: 62a794e8925d874157722f051f9f39f8
+SHA256: c511f4f590fe42820a5b5a0d51eab4d9ef5f7f866b086be77e3c6dd83e417215
