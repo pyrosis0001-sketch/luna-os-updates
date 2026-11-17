@@ -1,10 +1,10 @@
 Origin: LUNA OS
 Label: LUNA OS updates
 Architectures: amd64
-Date: Tue, 17 Nov 2026 00:28:02 UTC
+Date: Tue, 17 Nov 2026 04:27:01 UTC
 MD5Sum:
- e676378ced191e5db07e994285f598bf 1628 Packages
- 2bcfa1bd1a9d43ae1d3f5e62aa432729 573 Packages.gz
+ d68d783638a0c740f81f3a71b230b7a9 1628 Packages
+ 588a3b3ceee896d6ecdb5e515723d201 574 Packages.gz
 SHA256:
- 941c6405a30555281622475164bcd7fcf117cd64382d583c3260ddd8f333e822 1628 Packages
- c86f417daf1ed5fe804954a4a400da0626bcda466a27e42ee4d3acbf596dbf94 573 Packages.gz
+ b33bbab2b0343f7f117d2ded49a011b3d7bfbb1949f346ff30608c4c818afde6 1628 Packages
+ 8d281ff65b744f0e6424844e716742a6ef9cf10560fb5f4a092e42e7ff98c755 574 Packages.gz
