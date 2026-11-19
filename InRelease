@@ -4,18 +4,18 @@ Hash: SHA512
 Origin: LUNA OS
 Label: LUNA OS updates
 Architectures: amd64
-Date: Thu, 19 Nov 2026 12:24:07 UTC
+Date: Thu, 19 Nov 2026 12:56:14 UTC
 MD5Sum:
- 19e00109f1d3e3762071cff1b58dfec1 1628 Packages
- fe0b0db49166e21d5f9b7af31dc6a5bf 570 Packages.gz
+ a02c99c3d644407ec8b081f3f62ae5cd 1628 Packages
+ c738fbdc442427968ad5bd9985e9c101 568 Packages.gz
 SHA256:
- ab587d0336ecb71b4a791e9ff0674a0b3b454b3d5daac7db132b49b67698bb1c 1628 Packages
- 618301e986ddb4369facca43fd677d2a7b1788360fdbbc800c8ea849ce0dd69e 570 Packages.gz
+ 0b3c02f06b8a63556e5ac373ff2b274060ecd370e5f95ec4389e7e6adafb385e 1628 Packages
+ e2d5e499bb5ecd1de0c54a0e909492a4ce061e310c330d2c8c5168125375b10d 568 Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iIwEARYKADQWIQR00Ll/kBCd3iobHQVunksV63Z6/QUCav7qZxYcbHVuYS1vc0Bs
-b2NhbC5pbnZhbGlkAAoJEG6eSxXrdnr96AoBANhl4EbXiryKSpuszCb2XJwvLibD
-VmSiPiNK8e6DLuU8AP4n/hkq2gb8diEK7hRLZXzhDSFmApBTdcfVAbfBn7Y6Cg==
-=mro0
+iIwEARYKADQWIQR00Ll/kBCd3iobHQVunksV63Z6/QUCav7x7hYcbHVuYS1vc0Bs
+b2NhbC5pbnZhbGlkAAoJEG6eSxXrdnr9KU0A/2kBy6tBsOpCYfwaJcJku1Y9o49V
+9q6Hs91aPiu3LKDtAP9Y4kqACk66/QbniVysyyeF4jXXM8jhs1DyDI/RPsY3Dw==
+=Po3s
 -----END PGP SIGNATURE-----
